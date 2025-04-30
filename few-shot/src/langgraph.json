@@ -1,0 +1,10 @@
+{
+  "dockerfile_lines": [],
+  "graphs": {
+    "classify_questions": "./graph.py:graph"
+  },
+  "env": "./.env",
+  "dependencies": [
+    "."
+  ]
+}
